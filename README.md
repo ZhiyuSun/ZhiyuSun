@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 ### Hi，很高兴遇见你 👋
 
 - 🐶 全栈
-- ✍ [掘金](https://juejin.cn/user/3456520289256013)   [知乎](https://www.zhihu.com/people/sunzhiyu)   [豆瓣](https://www.douban.com/people/72968470)   [简书](https://www.jianshu.com/u/b5b3764f8b99)   [微博](https://weibo.com/u/2294572882)
+- ✍ [掘金技术博客](https://juejin.cn/user/3456520289256013)   [知乎](https://www.zhihu.com/people/sunzhiyu)
 - 👦 [个人站点](https://zhiyusun.github.io)
 - 📫 sunzhiyu94@163.com
 - 🔥 心里的火永远不要灭，哪怕别人只能看到烟
